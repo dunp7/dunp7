@@ -1,9 +1,10 @@
-# 👋 Hello, I’m @dunp7  
+# 👋 Hi, I’m @dunp7  
 
-🌟 I’m passionate about exploring and building in the world of Artificial Intelligence and Machine Learning.  
-🌱 I’m currently focused on improving my skills in Data Science, Deep Learning, and AI-driven innovation.  
-💡 I thrive on solving real-world problems with AI and contributing to impactful open-source projects.  
-🎯 My goals include mastering advanced AI techniques and collaborating with a community of like-minded developers.  
+🌟 Passionate about Artificial Intelligence and Machine Learning.  
+🌱 Currently improving my skills in Data Science and Deep Learning.  
+💡 Enjoy solving real-world problems with AI and contributing to open-source projects.  
+🎯 Goals: Master advanced AI techniques and collaborate on impactful projects.  
+
 
 
 
